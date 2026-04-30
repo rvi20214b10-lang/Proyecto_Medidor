@@ -1,5 +1,8 @@
+eventlet
 flask
 flask-socketio
 paho-mqtt
-eventlet
 flask-cors
+os
+json
+sqlite3
