@@ -3,3 +3,5 @@ flask
 flask-socketio
 paho-mqtt
 flask-cors
+json
+sqlite3
